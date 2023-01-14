@@ -1,0 +1,10 @@
+.hr{ 
+    border:         none;
+    border-left:    2px solid;
+    height:         75vh;
+    width:          1px;  
+}
+.taille{
+    font-size: 10px;
+    letter-spacing: 10px;
+}
